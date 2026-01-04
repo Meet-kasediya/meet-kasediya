@@ -2,6 +2,8 @@
 <img src="https://github.com/Meet-kasediya/meet-kasediya/blob/main/header.png">
 
 [![An image of @mkc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkc)](https://holopin.io/@mkc)
+💼 **Actively seeking internships and real-world software development opportunities**
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/meet-kasediya/" target="_blank">
