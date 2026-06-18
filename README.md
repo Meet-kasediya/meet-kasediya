@@ -2,7 +2,7 @@
 <img src="https://github.com/Meet-kasediya/meet-kasediya/blob/main/qq.png">
 
 [![An image of @mkc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkc)](https://holopin.io/@mkc)
-💼 **Actively seeking internships and real-world software development opportunities**
+
 
 
 <h3 align="left">Connect with me:</h3>
